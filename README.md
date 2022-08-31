@@ -5,7 +5,8 @@
 - 👀 I’m interested in FrontEnd Development  JS
 - 🌱 I’m currently learning in Hexlet
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me Telegram: @ArttChe
+### Contact me
+📧 Email: [Artoym1234n@mail.ru](mailto:Artoym@mail.ru)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

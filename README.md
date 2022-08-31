@@ -2,11 +2,17 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Hexlet student in FrontEnd Development from Russia 🇷🇺</h3>
 
+
 - 👀 I’m interested in FrontEnd Development  JS
-- 🌱 I’m currently learning in Hexlet
+- 📫 My CV: [https://cv.hexlet.io/resumes/865](https://cv.hexlet.io/resumes/1362)
+- 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/artch](https://ru.hexlet.io/u/artch)
 - 💞️ I’m looking to collaborate on 
-### Contact me
+<h3 align="left">Contact me:</h3>
+
 📧 Email: [Artoym1234n@mail.ru](mailto:Artoym@mail.ru)
+
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@ArttChe)
+<h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,6 +20,12 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+	
+<h3 align="left">My stats:</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artoym1234)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artoym1234&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Artoym1234/Artoym1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

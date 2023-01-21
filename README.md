@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in FrontEnd Development  JS
-- 📫 My CV: [https://cv.hexlet.io/users/8312](https://cv.hexlet.io/users/8312)
+- 📫 My CV: [https://cv.hexlet.io/resumes/1362](https://cv.hexlet.io/resumes/1362)
 - 🎓 Visit my Hexlet profile: [https://ru.hexlet.io/u/artch](https://ru.hexlet.io/u/artch)
 - 💞️ I’m looking to collaborate on 
 <h3 align="left">Contact me:</h3>

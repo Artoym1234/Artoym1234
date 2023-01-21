@@ -9,7 +9,8 @@
 - 💞️ I’m looking to collaborate on 
 <h3 align="left">Contact me:</h3>
 
-📧 Email: [Artoym1234n@mail.ru](mailto:Artoym@mail.ru)
+📧 Email: [Artoym1234@mail.ru](mailto:Artoym1234@mail.ru)
+
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@ArttChe)
 <h3 align="left">Languages and Tools:</h3>
